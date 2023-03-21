@@ -1,0 +1,133 @@
+
+
+colorScheme = "autumn"
+defaultAppearance = "dark" # valid options: light or dark
+autoSwitchAppearance = false
+
+enableSearch = true
+enableCodeCopy = true
+
+mainSections = ["blogs"]
+# robots = ""
+
+disableImageOptimization = false
+
+defaultBackgroundImage = "img/welcome.png" # used as default for background images 
+
+highlightCurrentMenuArea = true
+smartTOC = true
+smartTOCHideUnfocusedChildren = false
+
+[header]
+  layout = "fixed" # valid options: basic, fixed
+
+[footer]
+  showMenu = true
+  showCopyright = true
+  showThemeAttribution = true
+  showAppearanceSwitcher = true
+  showScrollToTop = true
+
+[homepage]
+  layout = "background" # valid options: page, profile, hero, card, background, custom
+  homepageImage = "img/welcome.png" # used in: hero, and card
+  showRecent = true
+  showRecentItems = 10
+  showMoreLink = true
+  showMoreLinkDest = "/blogs"
+  cardView = false
+  cardViewScreenWidth = false
+  layoutBackgroundBlur = true # only used when layout equals background
+
+[article]
+  showDate = true
+  showViews = true
+  showLikes = true
+  showDateUpdated = false
+  showAuthor = false
+  showHero = true
+  heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
+  layoutBackgroundBlur = true # only used when heroStyle equals background
+  showBreadcrumbs = true
+  showDraftLabel = true
+  showEdit = false
+  editURL = "https://github.com/SudipNeupane1"
+  editAppendPath = true
+  seriesOpened = true
+  showHeadingAnchors = true
+  showPagination = true
+  invertPagination = false
+  showReadingTime = true
+  showTableOfContents = true
+  showTaxonomies = true 
+  showAuthorsBadges = true 
+  showWordCount = false
+  showSummary = true
+  sharingLinks = [ "linkedin", "twitter", "reddit", "pinterest", "facebook", "email"]
+
+
+[list]
+  showHero = true
+  heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
+  layoutBackgroundBlur = true # only used when heroStyle equals background
+  layoutBackgroundHeaderSpace = false
+  showBreadcrumbs = false
+  showSummary = false
+  showViews = true
+  showLikes = true
+  showTableOfContents = true
+  showCards = true
+  groupByYear = true
+  cardView = false
+  cardViewScreenWidth = false
+  constrainItemsWidth = false
+
+[sitemap]
+  excludedKinds = ["taxonomy", "term"]
+
+[taxonomy]
+  showTermCount = true
+  showHero = true
+  heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
+  showBreadcrumbs = false
+  showViews = true
+  showLikes = true
+  showTableOfContents = true
+  cardView = false
+
+[term]
+  showHero = true
+  heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
+  showBreadcrumbs = false
+  showViews = true
+  showLikes = true
+  showTableOfContents = true
+  groupByYear = false
+  cardView = false
+  cardViewScreenWidth = false
+
+[firebase]
+  apiKey ="AIzaSyA8Fh1rkKSEPlJV1HATMcQFVNOIChBYbnw"
+  authDomain ="sudip-7972c.firebaseapp.com"
+  projectId = "sudip-7972c"
+  storageBucket = "sudip-7972c.appspot.com"
+  messagingSenderId = "1049793362826"
+  appId = "1:1049793362826:web:3c6f0115db337a9f746673"
+  measurementId = "G-1V2LQKDMLP"
+
+[fathomAnalytics]
+  # site = "ABC12345"
+  # domain = "llama.yoursite.com"
+
+[buymeacoffee]
+  #identifier = "sudipneupane"
+  #globalWidget = true
+  #globalWidgetMessage = "Hello"
+  #globalWidgetColor = "#EFED00"
+  #globalWidgetPosition = "Right"
+
+[verification]
+  # google = ""
+  # bing = ""
+  # pinterest = ""
+  # yandex = ""

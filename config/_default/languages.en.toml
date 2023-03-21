@@ -1,0 +1,70 @@
+languageCode = "en"
+languageName = "English"
+displayName = "🇬🇧"
+isoCode = "en"
+weight = 1
+rtl = false
+
+title = "Sudip Neupane"
+#logo = "/img/relaxation.png"
+description = "Software developer"
+#copyright = "Copy, _right?_ :thinking_face:"
+
+dateFormat = "2006-01-02"
+
+[author]
+  name = "Sudip Neupane"
+  image = "img/avatar.jpg"
+
+  headline = "Building a better tomorrow, today: a personal journey towards a brighter future"
+  bio = "Software developer"
+  links = [
+    { linkedin = "https://linkedin.com/in/sudip-neupane-4040731b5" },
+    { twitter = "https://twitter.com/Sudip_______" },
+    { email = "mailto:neupane.sudip22@gmail.com" },
+    { instagram = "https://instagram.com/sudipneupane_" },
+    #{ medium = "https://medium.com/@nunocoracao" },
+    { github = "https://github.com/SudipNeupane1" },
+    #{ mastodon = "https://masto.ai/@sudipneupane" },
+    #{ goodreads = "http://goodreads.com/nunocoracao" },
+    #{ keybase = "https://keybase.io/nunocoracao" },
+    #{ reddit = "https://reddit.com/user/nunoheart" },
+    #{ hackernews = "https://news.ycombinator.com/user?id=nunocoracao"},
+    #{ telegram = "https://t.me/nunocoracao" },
+    #{ music = "/music" },
+
+  #   { email = "mailto:hello@your_domain.com" },
+  #   { link = "https://link-to-some-website.com/" },
+  #   { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
+  #   { apple = "https://www.apple.com" },
+  #   { blogger = "https://username.blogspot.com/" },
+  #   { codepen = "https://codepen.io/username" },
+  #   { dev = "https://dev.to/username" },
+  #   { discord = "https://discord.gg/invitecode" },
+  #   { dribbble = "https://dribbble.com/username" },
+  #   { facebook = "https://facebook.com/username" },
+  #   { flickr = "https://www.flickr.com/photos/username/" },
+  #   { foursquare = "https://foursquare.com/username" },
+  #   { gitlab = "https://gitlab.com/username" },
+  #   { google = "https://www.google.com/" },
+  #   { hashnode = "https://username.hashnode.dev" },
+  #   { kickstarter = "https://www.kickstarter.com/profile/username" },
+  #   { lastfm = "https://lastfm.com/user/username" },
+  #   { mastodon = "https://mastodon.instance/@username" },
+  #   { microsoft = "https://www.microsoft.com/" },
+  #   { orcid = "https://orcid.org/userid" },
+  #   { patreon = "https://www.patreon.com/username" },
+  #   { pinterest = "https://pinterest.com/username" },
+  #   { reddit = "https://reddit.com/user/username" },
+  #   { researchgate = "https://www.researchgate.net/profile/username" },
+  #   { slack = "https://workspace.url/team/userid" },
+  #   { snapchat = "https://snapchat.com/add/username" },
+  #   { soundcloud = "https://soundcloud.com/username" },
+  #   { stack-overflow = "https://stackoverflow.com/users/userid/username" },
+  #   { steam = "https://steamcommunity.com/profiles/userid" },
+  #   { tiktok = "https://tiktok.com/@username" },
+  #   { tumblr = "https://username.tumblr.com" },
+  #   { twitch = "https://twitch.tv/username" },
+     { whatsapp = "https://wa.me/6361391147" },
+  #   { youtube = "https://youtube.com/username" },
+  ]
